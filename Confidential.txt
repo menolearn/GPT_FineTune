@@ -1,0 +1,11 @@
+// DO NOT DELETE IT
+
+API 
+Name: MenoLearn_FineTune_API
+Key: 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
+
+FILE ID
+File uploaded successfully with ID: file-QCMcMGeySybDyXhVwowquwF6
+
+FINE TUNE ID
+Fine-tuning job created successfully with ID: ftjob-mkZgGSVYXA9Nslt6UagSh2QP
